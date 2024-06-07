@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/gsap": "^3.0.0",
+    "@types/three": "^0.165.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  }
+}
