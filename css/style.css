@@ -20,6 +20,11 @@ html {
 body {
   background-color: #244855;
 }
+#form {
+  display:flex;
+  align-item: center;
+  gap:10px;
+}
 
 a {
   text-decoration: none;
